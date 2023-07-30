@@ -1,0 +1,33 @@
+C:\Users\herna\Desktop\PW_Prova\bin\Debug\PW_Prova.exe.config
+C:\Users\herna\Desktop\PW_Prova\bin\Debug\PW_Prova.exe
+C:\Users\herna\Desktop\PW_Prova\bin\Debug\PW_Prova.pdb
+C:\Users\herna\Desktop\PW_Prova\obj\Debug\PW_Prova.csproj.AssemblyReference.cache
+C:\Users\herna\Desktop\PW_Prova\obj\Debug\PW_Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\herna\Desktop\PW_Prova\obj\Debug\PW_Prova.frm_provaPW.resources
+C:\Users\herna\Desktop\PW_Prova\obj\Debug\PW_Prova.Properties.Resources.resources
+C:\Users\herna\Desktop\PW_Prova\obj\Debug\PW_Prova.csproj.GenerateResource.cache
+C:\Users\herna\Desktop\PW_Prova\obj\Debug\PW_Prova.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\PW_Prova\obj\Debug\PW_Prova.exe
+C:\Users\herna\Desktop\PW_Prova\obj\Debug\PW_Prova.pdb
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\bin\Debug\PW_Prova.exe.config
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\bin\Debug\PW_Prova.exe
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\bin\Debug\PW_Prova.pdb
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\obj\Debug\PW_Prova.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\obj\Debug\PW_Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\obj\Debug\PW_Prova.frm_provaPW.resources
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\obj\Debug\PW_Prova.Properties.Resources.resources
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\obj\Debug\PW_Prova.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\obj\Debug\PW_Prova.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\obj\Debug\PW_Prova.exe
+C:\Users\aluno\Desktop\PW_Prova_22_03_Forms\PW_Prova\obj\Debug\PW_Prova.pdb
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\bin\Debug\PW_Prova.exe.config
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\bin\Debug\PW_Prova.exe
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\bin\Debug\PW_Prova.pdb
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\obj\Debug\PW_Prova.csproj.AssemblyReference.cache
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\obj\Debug\PW_Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\obj\Debug\PW_Prova.frm_provaPW.resources
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\obj\Debug\PW_Prova.Properties.Resources.resources
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\obj\Debug\PW_Prova.csproj.GenerateResource.cache
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\obj\Debug\PW_Prova.csproj.CoreCompileInputs.cache
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\obj\Debug\PW_Prova.exe
+C:\Users\herna\OneDrive - Etec Centro Paula Souza\Documents\Programs By Me\PW\PW_Prova_24_03_Completo\PW_Prova\obj\Debug\PW_Prova.pdb
